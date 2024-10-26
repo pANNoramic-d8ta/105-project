@@ -6,11 +6,13 @@ section h1,
 section p {
 	text-align: center;
 	color: #454545;
+	border-color: #454545;
 }
 section h1 {
 	font: 32px 'Open Sans';
 	font-weight: bold;
-}
+	background: #FF92FB;
+	size-adjust: 30%;
 section p {
 	font: 16px 'Open Sans';
 }
